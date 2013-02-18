@@ -1,7 +1,7 @@
 "View[formFactor=handheld]": {
 	backgroundColor:"blue"
 },
-"View[size=tablet]": {
+"View[formFactor=tablet]": {
 	backgroundColor:"red"
 },
 "Label": {
